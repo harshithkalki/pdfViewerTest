@@ -17,6 +17,7 @@ const MyPdfViewer = () => {
       <div
         style={{
           height: "60vh",
+          border: "1px solid black",
         }}
       >
         <canvas
